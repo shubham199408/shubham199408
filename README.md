@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubham199408
 - 👀 I’m interested in data science projects and solving complex business problems
 - 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
 <!---
