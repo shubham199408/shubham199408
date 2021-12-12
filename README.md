@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science projects and solving complex business problems
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me ...
+- 📫 How to reach me at shubham.singh@ucdenver.edu
 
 <!---
 shubham199408/shubham199408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
